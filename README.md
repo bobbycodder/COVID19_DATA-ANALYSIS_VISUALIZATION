@@ -36,3 +36,7 @@ $ matplotlib
 ## I've used Jupyter Notebook for coding!
 
 ## I obtained the Dataset from Kaggle.
+
+## I have use plotly and geological plots for visualization 
+
+## Pie plots are  explained in detailed 
