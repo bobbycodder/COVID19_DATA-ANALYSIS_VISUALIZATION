@@ -40,3 +40,9 @@ $ matplotlib
 ## I have use plotly and geological plots for visualization 
 
 ## Pie plots are  explained in detailed 
+
+# Conclusion
+
+Hope you liked my project on Covid-19 Data analysis and Visualization using Python.
+
+***Just follow along Jupyter Notebook for more!!***
